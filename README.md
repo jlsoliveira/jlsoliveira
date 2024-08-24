@@ -1,6 +1,9 @@
+<h1 align="left">👋 Hello!</h1>
+
 <h2 align="left">About Me</h2>
 
 ###
+<p align="left"><strong>My name is Johanna Liz dos Santos de Oliveira. My nickname is "Hanna"! </strong></p>
 
 <p align="left">- Front-end developer<br>- Passionate about creating intuitive and optimized interfaces with maximum usability for all audiences.<br>- Graphic Design</p>
 
